@@ -1,0 +1,13 @@
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.exe
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.deps.json
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.runtimeconfig.json
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.runtimeconfig.dev.json
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.dll
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\bin\Debug\netcoreapp3.1\OpetationWithVariable.cs.pdb
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.csprojAssemblyReference.cache
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.csproj.CoreCompileInputs.cache
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.AssemblyInfoInputs.cache
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.AssemblyInfo.cs
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.dll
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.pdb
+C:\Users\timof\Desktop\курс обучения с#\OpetationWithVariable.cs\obj\Debug\netcoreapp3.1\OpetationWithVariable.cs.genruntimeconfig.cache
